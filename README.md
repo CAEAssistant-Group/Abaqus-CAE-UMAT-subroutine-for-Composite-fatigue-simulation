@@ -1,5 +1,7 @@
 # Abaqus-CAE-UMAT-subroutine-for-Composite-fatigue-simulation
-In this project, we simulated the fatigue behavior of a unidirectional composite material using the UMAT subroutine in Abaqus. The Abaqus .inp file, along with a portion of the UMAT subroutine, is attached. To access the video tutorial for this project and all the modeling files, visit the link below.
+In this project, we simulated the fatigue behavior of a unidirectional composite material using the UMAT subroutine in Abaqus. The Abaqus .inp file, along with a portion of the UMAT subroutine, is attached. 
+
+![Gif_Fat](https://github.com/user-attachments/assets/037a7d63-7cb9-4131-934b-952fd292e504)
 
 Fatigue refers to the weakening or failure of a material caused by repeated or fluctuating stresses over time, even if the stress levels are below the material's ultimate tensile strength. Essentially, it's the process by which a material becomes damaged or fractures after undergoing numerous cycles of loading and unloading.
 
@@ -16,11 +18,9 @@ Understanding fatigue behavior in composites is critical in applications like ae
 
 Finite Element Method (FEM) plays a crucial role in the analysis of fatigue behavior and the design of composite materials to minimize damage. While FEM is a powerful tool, using existing software for fatigue analysis in composites is still complex and challenging.
 
-![Screenshot 2025-02-19 114510](https://github.com/user-attachments/assets/a92106d8-de6d-4108-8cb6-a6d7a6fdaaba)
-
 To address this issue, in this project, we used the UMAT subroutine in Abaqus, which is written in Fortran, to analyze fatigue in composites in a two-dimensional space.
 
-![Gif_Fat](https://github.com/user-attachments/assets/037a7d63-7cb9-4131-934b-952fd292e504)
+![Screenshot 2025-02-19 114510](https://github.com/user-attachments/assets/a92106d8-de6d-4108-8cb6-a6d7a6fdaaba)
 
 In addition, we have a full training package for this project, where all the necessary details are provided in video format, and all the modeling files are available for download. You can view this package on our website.
 
