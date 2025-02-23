@@ -16,8 +16,11 @@ Understanding fatigue behavior in composites is critical in applications like ae
 
 Finite Element Method (FEM) plays a crucial role in the analysis of fatigue behavior and the design of composite materials to minimize damage. While FEM is a powerful tool, using existing software for fatigue analysis in composites is still complex and challenging.
 
-To address this issue, in this project, we used the UMAT subroutine in Abaqus, which is written in Fortran, to analyze fatigue in composites in a two-dimensional space.
 ![Screenshot 2025-02-19 114510](https://github.com/user-attachments/assets/a92106d8-de6d-4108-8cb6-a6d7a6fdaaba)
+
+To address this issue, in this project, we used the UMAT subroutine in Abaqus, which is written in Fortran, to analyze fatigue in composites in a two-dimensional space.
+
+![Gif_Fat](https://github.com/user-attachments/assets/037a7d63-7cb9-4131-934b-952fd292e504)
 
 In addition, we have a full training package for this project, where all the necessary details are provided in video format, and all the modeling files are available for download. You can view this package on our website.
 
