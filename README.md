@@ -25,3 +25,4 @@ To address this issue, in this project, we used the UMAT subroutine in Abaqus, w
 In addition, we have a full training package for this project, where all the necessary details are provided in video format, and all the modeling files are available for download. You can view this package on our website.
 
 ![image](https://github.com/user-attachments/assets/7b4df083-7678-4c83-b7c8-c76f93b845d9)
+**ℹ️ This is just a demo to show how the code is structured. For the full, working version, please visit our website.**
